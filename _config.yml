@@ -3,8 +3,8 @@ title:       Edson Mendieta
 email:       jacobedson@protonmail.com
 author:      Edson Mendieta
 description: "A place where Edson writes about web stuff."
-baseurl:     "/blog"
-url:         "https://edsonmendieta.github.io"
+baseurl:     ""
+url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
 
 # Google services
