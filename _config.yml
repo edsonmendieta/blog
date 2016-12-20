@@ -91,7 +91,7 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'https://formspree.io/emendietaj@gmail.com'
+    email:    'Your email'
     content:  'What would you like to say?'
     subject:  'New submission!'
     submit:   'Say Hello'
