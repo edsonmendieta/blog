@@ -1,8 +1,8 @@
 # Site settings
 title:       Edson Mendieta
-email:       your_email@example.com
+email:       jacobedson@protonmail.com
 author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "A place where Edson writes about web stuff."
 baseurl:     "/blog"
 url:         "https://edsonmendieta.github.io"
 date_format: "%b %-d, %Y"
