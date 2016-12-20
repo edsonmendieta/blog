@@ -4,7 +4,7 @@ email:       jacobedson@protonmail.com
 author:      Edson Mendieta
 description: "A place where Edson writes about web stuff."
 baseurl:     ""
-url:         "http://edsonmendieta.com/blog"
+url:         "http://edsonmendieta.com/blog/"
 date_format: "%b %-d, %Y"
 
 # Google services
